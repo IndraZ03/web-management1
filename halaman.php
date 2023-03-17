@@ -14,8 +14,7 @@
         href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <script src="html2pdf.bundle.min.js"></script>
-    <title>Login Pengguna</title>
+    <title>Dashboard</title>
     
 
 </head>
@@ -49,7 +48,7 @@
                         <div class="topbar-divider d-none d-sm-block"></div>
 
                         <!-- Nav Item - User Information -->
-                        <li class="nav-item dropdown no-arrow col-4">
+                        <<li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 <span class="mr-2 d-none d-lg-inline text-light small">Nama User</span>
@@ -79,6 +78,7 @@
                             </div>
                         </li>
 
+
                     </ul>
 
                 </nav>
@@ -93,27 +93,21 @@
             <div class = "row ml-5 mr-5 mb-5 mt-5">
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-globe"></i>
-                        </div>
+
                         <h3 class="title">Sistem Monitoring Aloptama Meteorologi</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-rocket"></i>
-                        </div>
+
                         <h3 class="title">Sistem Monitoring Aloptama Klimatologi</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-briefcase"></i>
-                        </div>
+
                         <h3 class="title">Sistem Monitoring Aloptama Geofisika</h3>
                     </div>
                 </div>
@@ -122,27 +116,21 @@
     <div class = "row ml-5 mr-5 mb-5 mt-5">
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-globe"></i>
-                        </div>
+
                         <h3 class="title mt-3">Inskal</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-rocket"></i>
-                        </div>
+
                         <h3 class="title mt-3">Datin</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-briefcase"></i>
-                        </div>
+
                         <h3 class="title mt-3">A</h3>
                     </div>
                 </div>
@@ -152,27 +140,18 @@
             <div class = "row ml-5 mr-5 mb-5 mt-5">
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-globe"></i>
-                        </div>
                         <h3 class="title mt-3">E-Sign</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-rocket"></i>
-                        </div>
                         <h3 class="title mt-3">B</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <div class="service-icon">
-                            <i class="fa fa-briefcase"></i>
-                        </div>
                         <h3 class="title mt-3">Menu Manajemen</h3>
                     </div>
                 </div>
@@ -223,7 +202,12 @@
             </div>
         </div>
     </div>
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
+    <!-- Core plugin JavaScript-->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 </body>
 
 </html>

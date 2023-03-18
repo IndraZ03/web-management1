@@ -60,20 +60,20 @@
                                 aria-labelledby="userDropdown">
                                 <a class="dropdown-item" href="#">
                                     <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
-                                    Profile
+                                    Profil
                                 </a>
                                 <a class="dropdown-item" href="#">
                                     <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
-                                    Settings
+                                    Pengaturan
                                 </a>
                                 <a class="dropdown-item" href="#">
                                     <i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>
-                                    Activity Log
+                                    Log Aktivitas
                                 </a>
                                 <div class="dropdown-divider"></div>
                                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                                     <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
-                                    Logout
+                                    Keluar
                                 </a>
                             </div>
                         </li>
@@ -88,27 +88,27 @@
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800 text-center ">Balai Besar MKG Wilayah I</h1>
+                    <h1 class="h3 mb-4 text-gray-800 text-center text-uppercase ">Balai Besar MKG Wilayah I</h1>
                     
             <div class = "row ml-5 mr-5 mb-5 mt-5">
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
 
-                        <h3 class="title">Sistem Monitoring Aloptama Meteorologi</h3>
+                        <h3 class="title text-uppercase">Sistem Monitoring Aloptama Meteorologi</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="serviceBox shadow-lg rounded">
 
-                        <h3 class="title">Sistem Monitoring Aloptama Klimatologi</h3>
+                        <h3 class="title text-uppercase">Sistem Monitoring Aloptama Klimatologi</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
 
-                        <h3 class="title">Sistem Monitoring Aloptama Geofisika</h3>
+                        <h3 class="title text-uppercase">Sistem Monitoring Aloptama Geofisika</h3>
                     </div>
                 </div>
             </div>
@@ -117,14 +117,14 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
 
-                        <h3 class="title mt-3">Inskal</h3>
+                        <h3 class="title mt-3 text-uppercase">Bidang I Observasi</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="serviceBox shadow-lg rounded">
 
-                        <h3 class="title mt-3">Datin</h3>
+                        <h3 class="title mt-3 text-uppercase">Bidang II Data & Informasi</h3>
                     </div>
                 </div>
 
@@ -140,19 +140,19 @@
             <div class = "row ml-5 mr-5 mb-5 mt-5">
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3">E-Sign</h3>
+                        <h3 class="title mt-3 text-uppercase">E-Sign</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3">B</h3>
+                        <h3 class="title mt-3 text-uppercase">B</h3>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3">Menu Manajemen</h3>
+                        <h3 class="title mt-3 text-uppercase">Menu Manajemen</h3>
                     </div>
                 </div>
             </div>

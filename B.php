@@ -41,8 +41,6 @@
                             class="d-inline-block align-center" src="img/bmkg-logo.png" alt="logo bmkg" width="66" height="66"></a>
                 <div class="topbar-divider d-none d-sm-block"></div>
 
-                <button type="button" class="btn btn-warning ml-2">Peta Wilayah I</button>
-
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <div class="topbar-divider d-none d-sm-block"></div>
@@ -90,96 +88,6 @@
                     <!-- Page Heading -->
                     <h1 class="h3 mb-4 text-gray-800 text-center text-uppercase ">Balai Besar MKG Wilayah I</h1>
                     
-            <div class = "row ml-5 mr-5 mb-5 mt-5">
-                <div class="col-md-4 col-sm-6">
-                <a href="SMAM.php" >
-                <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title text-uppercase">Sistem Monitoring Aloptama Meteorologi</h3> </div>
-                </a>
-
-                </div>
-
-                <div class="col-md-4 col-sm-6 text-center">
-                    <a href="SMAK.php">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title text-uppercase">Sistem Monitoring Aloptama Klimatologi</h3>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-md-4 col-sm-6">
-                    <a href="SMAG.php">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title text-uppercase">Sistem Monitoring Aloptama Geofisika</h3>
-                    </div>
-                    </a>
-                    
-                </div>
-            </div>
-    <!--row kedua -->
-    <div class = "row ml-5 mr-5 mb-5 mt-5">
-                <div class="col-md-4 col-sm-6">
-                    <a href="BO.php">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3 text-uppercase">Bidang I Observasi</h3>
-                    </div>
-                    </a>
-                    
-                </div>
-
-                <div class="col-md-4 col-sm-6 text-center">
-                    <a href="BDI.php">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3 text-uppercase">Bidang II Data & Informasi</h3>
-                    </div>
-                    </a>
-                    
-                </div>
-
-                <div class="col-md-4 col-sm-6">
-                    <a href="A.php">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3">A</h3>
-                    </div>
-                    </a>
-
-                </div>
-            </div>
-            
-            <!--ketiga -->
-            <div class = "row ml-5 mr-5 mb-5 mt-5">
-                <div class="col-md-4 col-sm-6">
-                    <a href="esign.php" class="gbh">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3 text-uppercase">E-Sign</h3>
-                    </div>
-                    </a>
-                    
-                </div>
-
-                <div class="col-md-4 col-sm-6 text-center">
-                <a href="B.php" class="gbh">
-                <div class="serviceBox shadow-lg rounded">
-                       
-                       <h3 class="title mt-3 text-uppercase">B</h3>
-                   </div>
-                </a>
-                   
-                </div>
-
-                <div class="col-md-4 col-sm-6">
-                    <a href="MenuM.php">
-                    <div class="serviceBox shadow-lg rounded">
-                        <h3 class="title mt-3 text-uppercase">Menu Manajemen</h3>
-                    </div>
-                    </a>
-                    
-                </div>
-            </div>
-           
-
-                </div>
-                <!-- /.container-fluid -->
             </div>
             <!-- End of Main Content -->
             
@@ -192,36 +100,7 @@
                     </div>
                 </div>
             </footer>
-            
-            <!-- End of Footer -->
-
-        </div>
-        <!-- End of Content Wrapper -->
-
-    </div>
-    <!-- End of Page Wrapper -->
-
-    <!-- Scroll to Top Button-->
-
-    <!-- Logout Modal-->
-    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Apakah Yakin untuk Keluar?</h5>
-                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">×</span>
-                    </button>
-                </div>
-                <div class="modal-body">Pilih "Keluar" untuk keluar dari dari akun</div>
-                <div class="modal-footer">
-                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Batal</button>
-                    <a class="btn btn-primary" href="login.php">Keluar</a>
-                </div>
-            </div>
-        </div>
-    </div>
+ 
 <!-- Bootstrap core JavaScript-->
 <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

@@ -312,7 +312,7 @@ table.table .avatar {
 
                     <!-- Page Heading -->
                     <h1 class="h3 mb-4 text-gray-800 text-center text-uppercase ">Balai Besar MKG Wilayah I</h1>
-                    <div class="table-responsive">
+    <div class="table-responsive">
         <div class="table-wrapper">
             <div class="table-title">
                 <div class="row">
@@ -336,9 +336,9 @@ table.table .avatar {
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td><a class="avatar"> Michael Holz</a></td>                      
+                        <td><a class="avatar"> Dwi Indra Prasetyo</a></td>                      
                         <td>Admin</td>
-                        <td><span class="status text-success">&bull;</span> Active</td>
+                        <td><span class="status text-success">&bull;</span> Aktif</td>
                         <td>
                             <a href="#" class="settings" title="Settings" data-toggle="tooltip"><i class="material-icons">&#xE8B8;</i></a>
                             <a href="#" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE5C9;</i></a>
@@ -346,8 +346,8 @@ table.table .avatar {
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td><a class="avatar"> Paula Wilson</a></td>                    
-                        <td>Publisher</td>
+                        <td><a class="avatar"> Hanif Kurniawan</a></td>                    
+                        <td>User</td>
                         <td><span class="status text-success">&bull;</span> Aktif</td>
                         <td>
                             <a href="#" class="settings" title="Settings" data-toggle="tooltip"><i class="material-icons">&#xE8B8;</i></a>
@@ -356,9 +356,9 @@ table.table .avatar {
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td><a class="avatar">Antonio Moreno</a></td>
-                        <td>Publisher</td>
-                        <td><span class="status text-danger">&bull;</span> Diblokir</td>                        
+                        <td><a class="avatar">Hanif Kurniawati</a></td>
+                        <td>User</td>
+                        <td><span class="status text-danger">&bull;</span> Tidak Aktif</td>                        
                         <td>
                             <a href="#" class="settings" title="Settings" data-toggle="tooltip"><i class="material-icons">&#xE8B8;</i></a>
                             <a href="#" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE5C9;</i></a>
@@ -366,9 +366,9 @@ table.table .avatar {
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td><a class="avatar">Mary Saveley</a></td>
-                        <td>Reviewer</td>
-                        <td><span class="status text-success">&bull;</span> Active</td>
+                        <td><a class="avatar">Dwi Indro Prasetya</a></td>
+                        <td>Aktif</td>
+                        <td><span class="status text-success">&bull;</span> Aktif</td>
                         <td>
                             <a href="#" class="settings" title="Settings" data-toggle="tooltip"><i class="material-icons">&#xE8B8;</i></a>
                             <a href="#" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE5C9;</i></a>
@@ -376,9 +376,9 @@ table.table .avatar {
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td><a class="avatar">Martin Sommer</a></td>                  
-                        <td>Moderator</td>
-                        <td><span class="status text-warning">&bull;</span> Inactive</td>
+                        <td><a class="avatar">Hanif Kurniawanto</a></td>                  
+                        <td>Kasubid</td>
+                        <td><span class="status text-succes">&bull;</span> Aktif</td>
                         <td>
                             <a href="#" class="settings" title="Settings" data-toggle="tooltip"><i class="material-icons">&#xE8B8;</i></a>
                             <a href="#" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE5C9;</i></a>
@@ -387,7 +387,7 @@ table.table .avatar {
                 </tbody>
             </table>
             <div class="clearfix">
-                <div class="hint-text">Showing <b>5</b> out of <b>25</b> entries</div>
+                <div class="hint-text">Showing <b>1</b> out of <b>25</b> entries</div>
                 <ul class="pagination">
                     <li class="page-item disabled"><a href="#">Previous</a></li>
                     <li class="page-item"><a href="#" class="page-link">1</a></li>
